@@ -20,8 +20,7 @@
 
 title: MiramarYC Developers
 email: dev@miramaryc.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Come sail with us!
+description: >- Come sail with us!
 baseurl: "/miramaryc.github.io"
 url: "https://miramaryc.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: @miramaryc
