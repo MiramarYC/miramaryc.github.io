@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://MiramarYC.github.io/miramaryc.github.io/sitemap.xml
