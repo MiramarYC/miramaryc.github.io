@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>miramaryc</title>
+    <link href="https://MiramarYC.github.io/miramaryc.github.io/feed.xml" rel="self" />
+    <link href="https://MiramarYC.github.io/miramaryc.github.io" />
+    <updated>2022-10-25T08:13:28-04:00</updated>
+    <author>
+        <name>Tom Tolleson</name>
+    </author>
+    <id>https://MiramarYC.github.io/miramaryc.github.io</id>
+
+    <entry>
+        <title>MiramarYC Github</title>
+        <author>
+            <name>Tom Tolleson</name>
+        </author>
+        <link href="https://MiramarYC.github.io/miramaryc.github.io/miramaryc-github.html"/>
+        <id>https://MiramarYC.github.io/miramaryc.github.io/miramaryc-github.html</id>
+
+        <updated>2022-10-25T08:13:28-04:00</updated>
+            <summary>
+                <![CDATA[
+                    This Github site is maintained by the development team of Miramar Yacht Club, Sheepshead Bay | Brooklyn, NY.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This Github site is maintained by the development team of Miramar Yacht Club, Sheepshead Bay | Brooklyn, NY.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

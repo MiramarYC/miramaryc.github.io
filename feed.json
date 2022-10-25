@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "miramaryc",
+    "description": "",
+    "home_page_url": "https://MiramarYC.github.io/miramaryc.github.io",
+    "feed_url": "https://MiramarYC.github.io/miramaryc.github.io/feed.json",
+    "user_comment": "",
+    "icon": "https://MiramarYC.github.io/miramaryc.github.io/media/website/burgee_flag_822x822_v2.png",
+    "author": {
+        "name": "Tom Tolleson"
+    },
+    "items": [
+        {
+            "id": "https://MiramarYC.github.io/miramaryc.github.io/miramaryc-github.html",
+            "url": "https://MiramarYC.github.io/miramaryc.github.io/miramaryc-github.html",
+            "title": "MiramarYC Github",
+            "summary": "This Github site is maintained by the development team of Miramar Yacht Club, Sheepshead Bay | Brooklyn, NY.",
+            "content_html": "<p>This Github site is maintained by the development team of Miramar Yacht Club, Sheepshead Bay | Brooklyn, NY.</p>",
+            "author": {
+                "name": "Tom Tolleson"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-10-25T08:13:28-04:00",
+            "date_modified": "2022-10-25T08:13:28-04:00"
+        }
+    ]
+}
